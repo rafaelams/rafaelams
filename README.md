@@ -1,6 +1,6 @@
 <h1 align="left">Olá! Eu sou a Rafaela</h1>
 
-- Estudante de Graduação em Inteligência Artificial na Universidade Federal de Goiás (UFG) - Brasil
+- Bacharel em Inteligência Artificial na Universidade Federal de Goiás (UFG) - Brasil
 
 - Cientista de Dados
 
